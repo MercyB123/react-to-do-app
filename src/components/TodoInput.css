@@ -1,0 +1,16 @@
+
+
+
+.inputBox {
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-top-color: cadetblue;
+    border-bottom-color: cadetblue;
+    margin-right: 10px;
+    margin-top: 32px;
+}
+
+.btn{
+    height: 30px;
+    padding: 3px;
+}    
