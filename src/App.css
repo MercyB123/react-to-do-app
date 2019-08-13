@@ -25,3 +25,15 @@
     min-height: 600px;
   }
 }
+
+@media (max-width: 600px) {
+  .inputBox {
+    width: 190px;
+  }
+}
+
+@media (max-width: 600px) {
+  .btn-primary {
+    width: 56px;
+  }
+}
